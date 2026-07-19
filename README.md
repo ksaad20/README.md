@@ -1,79 +1,103 @@
+Based on your ORCID profile, I'd update the GitHub profile to better reflect your actual research portfolio, publications, and academic activities while avoiding overstating anything. Your ORCID shows work spanning AI, genetics, aerospace, biomedical engineering, and research software, along with your software release and publications.  
+
+---
+
 # Hi there, I'm Kazi Saad Asif 👋
 
 **Electrical & Electronics Engineer | Research Software Developer | Scientific Machine Learning | Open Science**
 
-I am an Electrical and Electronics Engineering graduate passionate about developing open-source scientific software, computational models, and reproducible machine learning frameworks for engineering and applied science.
-
-My interests span scientific computing, battery technologies, computational engineering, biomedical machine learning, and research software engineering.
+I am a Bachelor of Science graduate in Electrical and Electronics Engineering with research interests spanning scientific machine learning, research software engineering, computational engineering, battery technologies, biomedical AI, genetics and genomics, and reproducible scientific computing. My goal is to build open, transparent, and reusable software that accelerates scientific discovery. 
 
 ---
 
 ## 🔬 Research Interests
 
-- Scientific Machine Learning
-- Physics-Informed Neural Networks (PINNs)
-- Battery Modeling & Digital Twins
-- Battery Management Systems (BMS)
-- Electrochemical Energy Storage
-- Scientific Software Engineering
-- Computational Engineering
-- Biomedical Machine Learning
-- Sensor Design
-- Analog Electronics
-- Reproducible Research
-- Open Science
+* Scientific Machine Learning
+* Physics-Informed Neural Networks (PINNs)
+* Battery Modeling & Digital Twins
+* Battery Management Systems (BMS)
+* Electrochemical Energy Storage
+* Research Software Engineering
+* Computational Engineering
+* Biomedical Machine Learning
+* Genetics & Genomics
+* Engineering Simulation
+* Sensor Design
+* Analog Electronics
+* Reproducible Research
+* Open Science
 
 ---
 
 ## 🚀 Featured Projects
 
 ### ⚡ Circuit-Bench
-An open-source benchmarking framework for analog circuit analysis, simulation, visualization, and reproducible evaluation.
+
+An open-source benchmarking framework for analog circuit analysis, simulation, visualization, benchmarking, and reproducible evaluation.
 
 ### 🔋 Battery Digital Twin
-Research software for battery simulation, degradation modeling, equivalent circuit models, thermal analysis, and AI-assisted battery diagnostics.
+
+Research software for battery degradation modeling, equivalent circuit models, thermal simulation, digital twins, and AI-assisted battery diagnostics.
 
 ### 🧠 Physics-Informed Neural Networks
-Scientific machine learning implementations for solving engineering and physical system modeling problems.
+
+Scientific machine learning implementations for solving engineering and physics-based modeling problems.
 
 ### 🔬 Computational Battery Research
-Open-source tools supporting battery modeling, electrochemical analysis, and next-generation energy storage research.
+
+Open-source tools supporting electrochemical modeling and next-generation rechargeable battery research.
+
+---
+
+## 📚 Selected Research Outputs
+
+* **Circuit Bench** (Research Software, Zenodo)
+* **A Rechargeable Hydride Ion Analog to Alkali Metal Batteries: Mo₆H System as a High Potential Reversible Energy Storage Concept**
+* **Soil Bench: A Benchmark of Seven Machine Learning Algorithms for Crop Yield Prediction**
+* **Comparison of Broad Spectrum Algorithms using the BEND Framework for Genomic Sequence Classification**
+* **Machine Learning Based Analysis and Prediction of Crop Yield and Prices of Aman, Aus and Boro Rice** (B.Sc. Thesis) 
 
 ---
 
 ## 🛠 Technical Skills
 
 ### Programming
-- Python
-- MATLAB
-- C/C++
-- Git
-- GitHub
+
+* Python
+* MATLAB
+* C/C++
+* Git
+* GitHub
 
 ### Scientific Computing
-- NumPy
-- SciPy
-- Pandas
-- Matplotlib
+
+* NumPy
+* SciPy
+* Pandas
+* Matplotlib
 
 ### Machine Learning
-- PyTorch
-- TensorFlow
-- Scikit-learn
+
+* PyTorch
+* TensorFlow
+* Scikit-learn
 
 ### Battery Modeling
-- PyBaMM
-- Equivalent Circuit Models
-- Thermal Models
-- Battery Degradation Modeling
-- Digital Twins
 
-### Software Engineering
-- GitHub Actions
-- Continuous Integration (CI)
-- Automated Testing
-- Documentation
-- Reproducible Workflows
+* PyBaMM
+* Equivalent Circuit Models
+* Thermal Models
+* Battery Degradation Modeling
+* Digital Twins
+
+### Research Software Engineering
+
+* GitHub Actions
+* Continuous Integration (CI)
+* Automated Testing
+* Documentation
+* Reproducible Workflows
+* Open-source Software Development
 
 ---
 
@@ -81,68 +105,48 @@ Open-source tools supporting battery modeling, electrochemical analysis, and nex
 
 I believe scientific software should be:
 
-- Open
-- Reproducible
-- Well documented
-- Extensible
-- Transparent
-- Community-driven
-
----
-
-## 📊 GitHub Statistics
-
-My repositories primarily focus on:
-
-- Scientific Software
-- Machine Learning
-- Battery Science
-- Computational Engineering
-- Research Infrastructure
-- Benchmarking Frameworks
-- Open-source Research Tools
+* Open
+* Reproducible
+* Transparent
+* Extensible
+* Well Documented
+* Community Driven
 
 ---
 
 ## 🤝 Collaboration
 
-I am interested in collaborating on projects involving:
+I'm interested in collaborating on research involving:
 
-- Scientific Machine Learning
-- Battery Science
-- AI for Science
-- Computational Biology
-- Engineering Simulation
-- Open-source Research Software
-
----
-
-# 🌐 Connect With Me
-
-**GitHub**  
-https://github.com/ksaad20
-
-**ORCID**  
-https://orcid.org/0000-0003-0560-9117
-
-**Google Scholar**  
-https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=6&hl=en&user=hmE-X8UAAAAJ&authuser=6
-
-**Zenodo**  
-https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest
-
-**LinkedIn**  
-https://www.linkedin.com/in/asif-kazi-76a23527b?utm_source=share_via&utm_content=profile&utm_medium=member_android
-
-**Instagram (Science & Art)**  
-https://www.instagram.com/anecdotal_doodles?igsh=eHNpbDc5bTFibzA2
+* Scientific Machine Learning
+* Battery Science
+* AI for Science
+* Computational Biology
+* Genetics & Genomics
+* Biomedical Engineering
+* Engineering Simulation
+* Open-source Research Software
 
 ---
 
-## 📚 Education
+## 🏆 Academic Activities
 
-**Bachelor of Science (B.Sc.)**  
-Electrical and Electronics Engineering
+* B.Sc. in Electrical and Electronics Engineering, BRAC University
+* Co-author of an Applied Machine Learning thesis
+* Former **IEEE BRAC University Newsletter Editor**
+* Former **BRACU Express Off-Campus Editor**
+* **Pearson Edexcel IGCSE High Achievers' Award** recipient 
+
+---
+
+## 🌐 Connect With Me
+
+* GitHub: [https://github.com/ksaad20](https://github.com/ksaad20)
+* ORCID: [https://orcid.org/0000-0003-0560-9117](https://orcid.org/0000-0003-0560-9117)
+* Google Scholar: [https://scholar.google.com/citations?user=hmE-X8UAAAAJ](https://scholar.google.com/citations?user=hmE-X8UAAAAJ)
+* Zenodo: [https://zenodo.org/communities](https://zenodo.org/communities)
+* LinkedIn: [https://www.linkedin.com/in/asif-kazi-76a23527b](https://www.linkedin.com/in/asif-kazi-76a23527b)
+* Instagram (Science & Art): [https://www.instagram.com/anecdotal_doodles](https://www.instagram.com/anecdotal_doodles)
 
 ---
 
@@ -153,3 +157,13 @@ Electrical and Electronics Engineering
 ---
 
 ⭐ **If you find my work useful, consider starring a repository or following my research journey.**
+
+### Overall assessment
+
+This version aligns more closely with your ORCID record by:
+
+* Reflecting your documented interdisciplinary research areas without overstating them. 
+* Highlighting your current software and scholarly outputs. 
+* Including your documented academic activities and distinctions. 
+
+It presents a stronger academic profile while remaining consistent with your public record.
