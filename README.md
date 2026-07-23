@@ -1,4 +1,3 @@
-Based on your ORCID profile, I'd update the GitHub profile to better reflect your actual research portfolio, publications, and academic activities while avoiding overstating anything. Your ORCID shows work spanning AI, genetics, aerospace, biomedical engineering, and research software, along with your software release and publications.  
 
 ---
 
